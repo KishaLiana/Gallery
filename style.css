@@ -1,0 +1,11 @@
+  
+.nav-bar {
+    text-align: center;
+
+}
+
+li{
+    display: inline-block;
+    margin: auto;
+    padding: 20px;
+}
