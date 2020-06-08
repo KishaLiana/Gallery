@@ -27,12 +27,12 @@
 
   @media only screen and (max-width:600px){
       .icon{
-          display: block;
+    display: inline-block;
     font-size: 35px;
     position: absolute;
     right: 0;
     top: 0;
- align-self: flex-end;
+ 
   cursor: pointer;
       }
       .nav-bar li {
