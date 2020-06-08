@@ -1,11 +1,24 @@
-  
-.nav-bar {
-    text-align: center;
-
+header{
+    
+background-color:  rgb(176, 243, 221);
 }
 
-li{
+.nav-bar ul{
+    top: 0;
+    text-align: center;
+   cursor: pointer;
+}
+
+.nav-bar li {
     display: inline-block;
-    margin: auto;
+    text-align: center;
     padding: 20px;
+}
+
+footer{
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(176, 243, 221);
+    width: 100%;
+  text-align: center;
 }
