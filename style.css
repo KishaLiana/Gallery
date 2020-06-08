@@ -28,7 +28,7 @@
   @media only screen and (max-width:600px){
       .icon{
           display: block;
-
+    font-size: xx-large;
     position: absolute;
     right: 0;
  align-self: flex-end;
@@ -36,9 +36,6 @@
       }
       .nav-bar li {
         display: none;
-       
-      
-      
     }
   }
 
