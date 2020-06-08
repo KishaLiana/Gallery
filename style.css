@@ -15,10 +15,32 @@
    padding-left: 20px;
    padding-top: 10px;
    padding-bottom: 10px;
-  border-right: 2px  lightgrey solid;
-  border-left: 2px lightgrey solid;
+  
   
 }
+
+.icon{
+   display: none;
+   
+
+  }
+
+  @media only screen and (max-width:600px){
+      .icon{
+          display: block;
+
+    position: absolute;
+    right: 0;
+ align-self: flex-end;
+  cursor: pointer;
+      }
+      .nav-bar li {
+        display: none;
+       
+      
+      
+    }
+  }
 
 footer{
     bottom: 0;
