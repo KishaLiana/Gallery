@@ -32,12 +32,15 @@
     position: absolute;
     right: 0;
     top: 0;
- 
+    color: grey;
+ background-color: rgb(225, 231, 229);
   cursor: pointer;
+  width: 70px;
       }
       .nav-bar li {
         display: none;
     }
+    
   }
 
 footer{
