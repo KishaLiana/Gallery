@@ -1,24 +1,33 @@
-header{
-    
-background-color:  rgb(176, 243, 221);
-}
+
+
 
 .nav-bar ul{
-    top: 0;
+    
     text-align: center;
    cursor: pointer;
+   
 }
 
 .nav-bar li {
     display: inline-block;
     text-align: center;
-    padding: 20px;
+   padding-right: 20px ;
+   padding-left: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+  border-right: 2px  lightgrey solid;
+  border-left: 2px lightgrey solid;
+  
 }
 
 footer{
     bottom: 0;
     position: fixed;
-    background-color: rgb(176, 243, 221);
+    background-color: rgb(225, 231, 229);
     width: 100%;
-  text-align: center;
+  text-align: center; 
+}
+
+footer p{
+    color: grey;
 }
