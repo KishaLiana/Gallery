@@ -43,6 +43,11 @@
     
   }
 
+  .w3-container{
+    display: inline-block;
+    text-align: center;
+  }
+
 footer{
     bottom: 0;
     position: fixed;
