@@ -36,17 +36,22 @@
  background-color: rgb(225, 231, 229);
   cursor: pointer;
   width: 70px;
+  
       }
       .nav-bar li {
         display: none;
     }
+
+    .card{
+      margin-bottom: 20px;
+      
+    }
     
   }
-
-  .w3-container{
-    display: inline-block;
-    text-align: center;
-  }
+section{
+  padding-bottom: 50px;
+  padding-top: 40px;
+}
 
 footer{
     bottom: 0;
