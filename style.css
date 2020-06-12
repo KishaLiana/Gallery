@@ -81,15 +81,16 @@
     .search-container {
       display: none;
     }
-    
+
+   
   }
 
-section{
-  padding-bottom: 40px;
-  padding-top: 10px;
-  
-}
 
+  section{
+    padding-bottom: 40px;
+    padding-top: 40px;
+    
+  }
 
 .flip-card {
   background-color: transparent;
