@@ -1,5 +1,10 @@
 
-
+.nav-bar{
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+  z-index: 9999;
+}
 
 .nav-bar ul{
     
@@ -10,7 +15,7 @@
 
 .nav-bar li {
     display: inline-block;
-    text-align: center;
+   
    padding-right: 20px ;
    padding-left: 20px;
    padding-top: 10px;
@@ -98,7 +103,7 @@ section{
 
 footer{
     bottom: 0;
-    position: fixed;
+    
     background-color: rgb(225, 231, 229);
     width: 100%;
   text-align: center; 
