@@ -73,7 +73,9 @@
       .nav-bar li {
         display: none;
     }
-
+.flip-card{
+  margin-top: 20px;
+}
  
 
     .search-container {
@@ -84,7 +86,7 @@
 
 section{
   padding-bottom: 40px;
-  padding-top: 40px;
+  padding-top: 10px;
   
 }
 
